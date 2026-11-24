@@ -39,6 +39,7 @@ The platform aims to promote rural businesses through digital technology.
 ## 📸 Project Screenshots
 
 ### Homepage
+https://chatgpt.com/s/i_6b05b90df69c8191978d4e26edd26013
 ![Gaon Bazaar Homepage](screenshots/homepage.png)
 
 ### Shop Listing
