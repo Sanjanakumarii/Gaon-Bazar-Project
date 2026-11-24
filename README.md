@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gaon Bazaar
 
 A working village marketplace built as a final-year college project. Customers can order from shops near the **delivery home**, including when ordering for parents from another city. Shopkeepers register their own shop and arrange local delivery.
@@ -95,3 +96,7 @@ Leaflet 1.9.4 is vendored under `public/vendor/` (BSD-2-Clause). OpenStreetMap a
 Organization: https://github.com/gaon-bazaar. Cloudflare deployment: https://gaon-bazaar.pages.dev. The deployed homepage and anonymous API response were verified. Local data is separate from the cloud database. This source package includes both deployment variants.
 
 
+=======
+# Gaon-Bazar-Project
+# Gaon Bazar  Gaon Bazar is an online marketplace platform designed to connect local sellers with customers. It aims to promote rural businesses by providing a digital platform to showcase and sell products.  
+>>>>>>> eb50a07b630ed55cc2d6c530007ab3dc983df736
